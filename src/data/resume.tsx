@@ -156,7 +156,7 @@ export const DATA = {
       active: true,
       description:
         "The Biggest National Renewable Energy Events and Competitions by the Society of Renewable Energy ITS. Stands as Indonesia's grand stage for renewable energy, orchestrated by SRE ITS, igniting students passion across the nation to pioneer energy transformation through innovative exploration and strategic implementation.",
-      technologies: ['Next.js', 'Typescript', 'TailwindCSS', 'Shadcn UI', 'Moodle', 'Google OAuth', 'Vercel'],
+      technologies: ['Next.js', 'Typescript', 'TailwindCSS', 'Next UI', 'Vercel'],
       links: [
         {
           type: 'Website',
@@ -174,7 +174,7 @@ export const DATA = {
       active: true,
       description:
         "Responsible for providing technical leadership by guiding the development team's decisions, designing scalable architecture, overseeing code quality through reviews, budgeting and maintenance for website development, fostering collaboration across teams, staying updated with industry trends, and troubleshooting technical issues.",
-      technologies: ['Next.js', 'Typescript', 'TailwindCSS', 'Shadcn UI', 'Moodle', 'Google OAuth', 'Vercel'],
+      technologies: ['Next.js', 'Typescript', 'TailwindCSS', 'Headless UI', 'Vercel'],
       links: [
         {
           type: 'Website',

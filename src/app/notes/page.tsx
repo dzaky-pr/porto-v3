@@ -22,7 +22,9 @@ export default async function NotesPage() {
             <div className="space-y-2">
               <div className="inline-block rounded-lg bg-foreground text-background px-3 py-1 text-sm">Notes</div>
               <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">I Like to Learn</h2>
-              <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">I spend a lot of time studying, taking notes, and sharing them with friends. Here are some of my notes from school.</p>
+              <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
+                I spend a lot of time studying, taking notes, and sharing them with my friends. Here some notes. Let&apos;s enjoy learning together, everyone.
+              </p>
             </div>
           </div>
         </BlurFade>
