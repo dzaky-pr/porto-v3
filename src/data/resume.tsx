@@ -27,6 +27,7 @@ export const DATA = {
     "TypeScript",
     "Java",
     "Python",
+    "Go (Golang)",
     "SQL",
     "React.js",
     "Next.js",
@@ -36,6 +37,8 @@ export const DATA = {
     "Material UI",
     "ShadCN",
     "Zod",
+    "Gin",
+    "GORM",
     "Docker",
     "Git",
     "GitHub",
@@ -46,6 +49,7 @@ export const DATA = {
     "MySQL",
     "PostgreSQL",
     "Moodle",
+    "Machine Learning",
     "Alibaba Cloud",
     "AWS Cloud",
     "Azure",
@@ -110,7 +114,7 @@ export const DATA = {
     {
       company: "Ministry of Foreign Affairs of the Republic of Indonesia",
       href: "https://kemlu.go.id/",
-      badges: [""],
+      badges: [],
       location: "Jakarta, ID",
       title: "DevOps Engineer",
       logoUrl: "/kemlu.jpg",
@@ -122,7 +126,7 @@ export const DATA = {
     {
       company: "PT Kalbe Farma, Tbk",
       href: "https://www.kalbe.co.id/",
-      badges: [""],
+      badges: [],
       location: "Jakarta, ID",
       title: "Software Engineer",
       logoUrl: "/kalbe.jpg",
@@ -134,7 +138,7 @@ export const DATA = {
     {
       company: "PT Kalbe Farma, Tbk",
       href: "https://www.kalbe.co.id/",
-      badges: [""],
+      badges: [],
       location: "Jakarta, ID",
       title: "Software Engineer Intern",
       logoUrl: "/kalbe.jpg",
@@ -240,6 +244,42 @@ export const DATA = {
         "Led development of the main website for ITS’ largest SPE ITS Student Chapter event. Managed system architecture, budget, VPS/Vercel infrastructure, GitHub, and monitoring with Sentry and Discord.",
     },
     {
+      company: "BEM FTEIC ITS",
+      href: "https://www.its.ac.id/fteic/",
+      badges: [],
+      location: "Surabaya, ID",
+      title: "Head Event Bureau of Entrepreneurship Department",
+      logoUrl: "/its.jpg",
+      start: "Jan 2025",
+      end: "Nov 2025",
+      description:
+        "Coordinated 40+ committee members in executing entrepreneurship and technology development programs across ITS. Initiated and coordinated a technology roadshow featuring 2 Google Developer Experts and 1 Google Country Manager, attracting 400+ registered participants. Contributed to ITS Youth Technopreneur (IYT) 2024 for the GENICS Funded Team.",
+    },
+    {
+      company: "Surabaya Scholarship Community of Beasiswa Unggulan",
+      href: "https://beasiswaunggulan.kemdikbud.go.id/",
+      badges: [],
+      location: "Surabaya, ID",
+      title: "Head of Public Relations",
+      logoUrl: "/kemdikbudristek.jpg",
+      start: "Nov 2024",
+      end: "Oct 2025",
+      description:
+        "Led 9 members in managing external relations and developing strategic partnerships. Initiated and coordinated programs including Kubus In Action, Temu Alumni, media partnerships, and community website and blog development. Established virtual community collaboration with LPDP Monash.",
+    },
+    {
+      company: "Society of Renewable Energy ITS (SRE ITS SC)",
+      href: "https://frontend-futurest2024.vercel.app/",
+      badges: [],
+      location: "Surabaya, ID",
+      title: "Frontend Manager",
+      logoUrl: "/sre.jpg",
+      start: "Aug 2024",
+      end: "Jul 2025",
+      description:
+        "Managed a frontend team of 4 staff, collaborating closely with Director, Backend Manager, and UI/UX Manager. Oversaw frontend development workflow, maintained features across SRE ITS projects, achieving performance metrics: 87 (Performance), 96 (Best Practices), 92 (Accessibility), and 100 (SEO).",
+    },
+    {
       company: "BAZKOM CARASEL SPESTASIA 2021",
       href: "",
       badges: [],
@@ -267,7 +307,7 @@ export const DATA = {
     {
       school: "SMAN 68 Jakarta",
       href: "https://sman68-jkt.sch.id/",
-      degree: "High School Diploma",
+      degree: "High School Diploma, Science Class",
       logoUrl: "/sman68.jpg",
       start: "2019",
       end: "2022",
@@ -278,7 +318,7 @@ export const DATA = {
     {
       title: "ISE (Information System Expo)",
       href: "https://www.ise-its.com/",
-      dates: "May 2024 - Present",
+      dates: "May 2024 - Nov 2024",
       active: true,
       description:
         "Responsible for providing technical leadership by guiding the development team's decisions, designing scalable architecture, overseeing code quality through reviews, budgeting and maintenance for website development, fostering collaboration across teams, staying updated with industry trends, and troubleshooting technical issues.",
